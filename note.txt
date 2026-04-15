@@ -1,0 +1,8 @@
+ After adding new code
+ git add .
+
+ To commit
+ git commit -m"Feat: Add hero section"
+
+ To push
+ git push
