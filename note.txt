@@ -6,3 +6,6 @@
 
  To push
  git push
+
+ To pull
+ git pull
