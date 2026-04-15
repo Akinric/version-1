@@ -3,3 +3,22 @@
 color: white;
 background-color: blue;
 }
+
+
+body {
+background-color: blue;
+color: white;
+
+}
+
+header {
+background-color: gold;
+color: black;
+padding: 2rem;
+}
+
+.hero {
+background-color: gray;
+min-height: 50vh;
+
+}
