@@ -9,3 +9,12 @@
 
  To pull
  git pull
+
+ To create branch
+ git branch brach-name
+
+ To switch to branch
+ git checkout branch-name
+
+ To do last two together
+ git checkout -b branch-name
